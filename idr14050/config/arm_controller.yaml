@@ -1,0 +1,10 @@
+arm_controller:
+  type: "position_controllers/JointTrajectoryController"
+  joints:
+    - idr14050_joint_1_r
+    - idr14050_joint_2_r
+    - idr14050_joint_3_r
+    - idr14050_joint_4_r
+    - idr14050_joint_5_r
+    - idr14050_joint_6_r
+    - idr14050_joint_7_r
